@@ -1,5 +1,7 @@
 # USB-MIDI-Controller-Arduino
-MIDI plug and play Controller made using a SparkFun Pro Micro.
+MIDI plug and play Controller made using a SparkFun Pro Micro. 
+
+https://www.youtube.com/watch?v=fQDHzO8OT50&ab_channel=GrrOink
 
 ///// FUNCTIONALITY /////
 
